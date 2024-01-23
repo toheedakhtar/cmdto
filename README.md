@@ -15,5 +15,5 @@ command line tool to search for linux commands
 - for ex: If you want to search for cmd to change directory
     - either enter 'change' or 'directory' as the keyword
     - `cmdto change`
-    - > cd Change directory
+  
       

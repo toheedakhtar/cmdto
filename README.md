@@ -12,9 +12,9 @@ command line tool to search for linux commands
 
 ### Usage
 - Enter the most significant keyword after the cmd
-`cmdto {keyword}`
+- `cmdto {keyword}`
 - Ex: If you want to search for cmd to change directory
     - either enter 'change' or 'directory' as the keyword
-     `cmdto change`
+    - `cmdto change`
   
       
